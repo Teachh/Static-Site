@@ -12,7 +12,7 @@ Un listado de las cosas que me gusta:
 - No poder ir al gimnasio por el coronavirus.
 - Hacer prácticas en casa por el coronavirus.
 - Y muchas más!
-![Image](https://celiacos.org/wp-content/uploads/2020/03/coronavirus.jpeg)
+[Image](https://celiacos.org/wp-content/uploads/2020/03/coronavirus.jpeg)
 ```
 Para saber más cosas sobre mi contáctame por privado :)
 
